@@ -9,6 +9,7 @@ def prompt_user
   puts "What would you like to do?"
   puts "1.) Eat a hamburger."
   puts "2.) Eat a ham."
+  binding.pry
 end 
 
 def selection 
