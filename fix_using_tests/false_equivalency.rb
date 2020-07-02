@@ -8,7 +8,6 @@ end
 def prompt_user
   puts "What would you like to do?"
   puts "1.) Eat a hamburger."
-  binding.pry 
   puts "2.) Eat a ham."
 end 
 
