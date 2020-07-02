@@ -9,6 +9,7 @@ def prompt_user
   puts "1.) Eat a hamburger."
   puts "2.) Eat a ham."
   get_user_input 
+  binding.pry 
 end
 
 def selection(num)
