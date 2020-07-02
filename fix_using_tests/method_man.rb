@@ -2,7 +2,7 @@
 
 def start_game(player1, player2)
   greeting = "Hello #{player1} & #{player2}"
-  return greeting
+  puts greeting
 end
 
 def play_game(player1, player2)
